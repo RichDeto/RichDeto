@@ -16,9 +16,11 @@ Here are my repo´s with the principals projects where I´m working on
 
 ### In process
 
-[*ech*](https://github.com/calcita/ech)
-*GeoSurveyDesk*
-*urbabm* 
+- [*ech*](https://github.com/calcita/ech)
+
+- *GeoSurveyDesk*
+
+- *urbabm* 
 ...
 
 ## Publications
