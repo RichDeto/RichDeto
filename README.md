@@ -1,10 +1,10 @@
-### 👋 I’m Richard Detomasi
+# 👋 I’m Richard Detomasi
 
 Here are my repo´s with the principals projects where I´m working on
 
 ## R packages
 
-# Actives
+### Actives
 
 [*geouy (2020)*](https://github.com/RichDeto/geouy)
 
@@ -14,7 +14,7 @@ Here are my repo´s with the principals projects where I´m working on
 
 - Package used for planning the expansion of the CAIF program and evaluation of the projected expansion of ANEP.
 
-# In process
+### In process
 
 [*ech*](https://github.com/calcita/ech)
 *GeoSurveyDesk*
