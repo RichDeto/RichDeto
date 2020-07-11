@@ -21,9 +21,10 @@ Here are my repo´s with the principals projects where I´m working on
 - *GeoSurveyDesk*
 
 - *urbabm* 
+
 ...
 
-## Publications
+## Pricipals publications
 
 **Detomasi, R.** y G. Mathieu 2019. ["Sistema para gestión de zonas a relevar en campo usando R"](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/presentaciones/LatinR2019_paper_70.pdf). LatinR - Conferencia Latinoamericana sobre Uso de R en Investigación + Desarrollo. 25 al 27 de Setiembre. 
 
