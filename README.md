@@ -2,9 +2,9 @@
 
 Here are my repo´s with the principals projects where I´m working on
 
-## R packages
+## 📦 R packages
 
-### Actives
+### ⚙ Actives
 
 [*geouy (2020)*](https://github.com/RichDeto/geouy)
 
@@ -14,17 +14,23 @@ Here are my repo´s with the principals projects where I´m working on
 
 - Package used for planning the expansion of the CAIF program and evaluation of the projected expansion of ANEP.
 
-### In process
+### 🛠 In process
 
-- [*ech*](https://github.com/calcita/ech)
+[*ech*](https://github.com/calcita/ech)
 
-- *GeoSurveyDesk*
+- Toolbox for processing the Continuous Household Survey of Uruguay carried out by the National Institute of Statistics (INE). It is intended to contribute to the community of R users in Uruguay, facilitating the use of one of the most important socioeconomic surveys in the country. In this sense, the package implements a series of functions that allow the calculation of the main socioeconomic indicators allowed by the survey.
 
-- *urbabm* 
+[*GeoSurveyDesk*](https://github.com/RichDeto/GeoSurveyDesk/)
 
-...
+- System for management of areas to be surveyed in the field using R
 
-## Pricipals publications
+[*urbabm*](https://github.com/RichDeto/urbabm/)
+
+- R package for Urban Agents-Based Models
+
+*...*
+
+## 📚 Pricipals publications 🧮
 
 **Detomasi, R.** y G. Mathieu 2019. ["Sistema para gestión de zonas a relevar en campo usando R"](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/presentaciones/LatinR2019_paper_70.pdf). LatinR - Conferencia Latinoamericana sobre Uso de R en Investigación + Desarrollo. 25 al 27 de Setiembre. 
 
@@ -47,7 +53,6 @@ Botto, G. y **R. Detomasi** 2015. ["Bases metodológicas para la planificación 
 **Detomasi, R.**, G. Botto & M. Hahn. 2015. ["CAIF Análisis de demanda"](http://dinem.mides.gub.uy/innovaportal/file/61792/1/caif.-analisis-de-demanda.-2015.pdf). División Estudios Sociales y Trabajo de Campo - Dirección Nacional de Evaluación y Monitoreo | Ministerio de Desarrollo Social. DOI: 10.13140/RG.2.1.4902.7447 
 
 **Detomasi, R.** & G. Botto. 2015. ["ANEP-CAIF/CAIF-ANEP ¿Los niños de 3 años?"](http://dinem.mides.gub.uy/innovaportal/file/61793/1/anep-caifcaif-anep-los-ninos-de-3-anos.-2015.pdf). División Estudios Sociales y Trabajo de Campo - Dirección Nacional de Evaluación y Monitoreo | Ministerio de Desarrollo Social. DOI: 10.13140/RG.2.1.2543.4487 
-
 
 
 <!--
