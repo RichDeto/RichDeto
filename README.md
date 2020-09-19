@@ -6,19 +6,18 @@ Here are my repo´s with the principals projects where I´m working on
 
 ### ⚙ Actives
 
+[*ech (2020)*](https://github.com/calcita/ech) - In collaboration with [Gabriela Mathieu](https://github.com/calcita) 
+- Toolbox for processing the Continuous Household Survey of Uruguay carried out by the National Institute of Statistics (INE). It is intended to contribute to the community of R users in Uruguay, facilitating the use of one of the most important socioeconomic surveys in the country. In this sense, the package implements a series of functions that allow the calculation of the main socioeconomic indicators allowed by the survey.
+
 [*geouy (2020)*](https://github.com/RichDeto/geouy)
 
 - geouy is an R package that allows users to easily access official spatial data sets of Uruguay. The package includes a wide range of geospatial datasets as simple features (sf), available at various geographic scales and for various years with harmonized attributes and projection.
 
-[*EPP: Evaluation of Proximity Programs (2017)*](https://github.com/RichDeto/EPP/)
+[*EPP: Evaluation of Proximity Programs (2017)*](https://github.com/RichDeto/EPP/) - In collaboration with [Germán Botto](https://www.researchgate.net/profile/German_Botto)
 
 - Package used for planning the expansion of the CAIF program and evaluation of the projected expansion of ANEP.
 
 ### 🛠 In process
-
-[*ech*](https://github.com/calcita/ech)
-
-- Toolbox for processing the Continuous Household Survey of Uruguay carried out by the National Institute of Statistics (INE). It is intended to contribute to the community of R users in Uruguay, facilitating the use of one of the most important socioeconomic surveys in the country. In this sense, the package implements a series of functions that allow the calculation of the main socioeconomic indicators allowed by the survey.
 
 [*GeoSurveyDesk*](https://github.com/RichDeto/GeoSurveyDesk/)
 
