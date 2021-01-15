@@ -53,6 +53,14 @@ Botto, G. y **R. Detomasi** 2015. ["Bases metodológicas para la planificación 
 
 **Detomasi, R.** & G. Botto. 2015. ["ANEP-CAIF/CAIF-ANEP ¿Los niños de 3 años?"](http://dinem.mides.gub.uy/innovaportal/file/61793/1/anep-caifcaif-anep-los-ninos-de-3-anos.-2015.pdf). División Estudios Sociales y Trabajo de Campo - Dirección Nacional de Evaluación y Monitoreo | Ministerio de Desarrollo Social. DOI: 10.13140/RG.2.1.2543.4487 
 
+## 🎥 YouTube 🎞️
+
+![](https://youtu.be/VegUiSLcWBU)
+
+![](https://youtu.be/bP4P2a7kL10)
+
+![](https://youtu.be/dnF3crsV-XQ)
+
 
 <!--
 **RichDeto/RichDeto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
