@@ -55,11 +55,12 @@ Botto, G. y **R. Detomasi** 2015. ["Bases metodológicas para la planificación 
 
 ## 🎥 YouTube 🎞️
 
-![](https://youtu.be/VegUiSLcWBU)
+[![geouy at LatinR 2020](http://img.youtube.com/vi/VegUiSLcWBU/0.jpg)](http://www.youtube.com/watch?v=VegUiSLcWBU)
 
-![](https://youtu.be/bP4P2a7kL10)
+[![ANEP at Jornadas de Geografía 2015](http://img.youtube.com/vi/bP4P2a7kL10/0.jpg)](http://www.youtube.com/watch?v=bP4P2a7kL10)
 
-![](https://youtu.be/dnF3crsV-XQ)
+[![Empleo juvenil at Jornadas de Geografía 2017](http://img.youtube.com/vi/dnF3crsV-XQ/0.jpg)](http://www.youtube.com/watch?v=dnF3crsV-XQ)
+
 
 
 <!--
