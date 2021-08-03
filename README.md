@@ -15,7 +15,7 @@ Here are my repo´s with the principals projects where I´m working on
 
 [*EPP: Evaluation of Proximity Programs (2017)*](https://github.com/RichDeto/EPP/) - In collaboration with [Germán Botto](https://www.researchgate.net/profile/German_Botto)
 
-- Package used for planning the expansion of the CAIF program and evaluation of the projected expansion of ANEP.
+- Package oriented to the evaluation of population coverage of diverse programs. It was originally developed to assess the coverage of an initial education program in Uruguay (expansion of the CAIF program and evaluation of the projected expansion of ANEP), which gave us interesting results, and we wanted to share the methodology used.
 
 ### 🛠 In process
 
