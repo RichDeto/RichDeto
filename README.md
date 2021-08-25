@@ -6,16 +6,16 @@ Here are my repo´s with the principals projects where I´m working on
 
 ### ⚙ Actives
 
-[*ech (2020)*](https://github.com/calcita/ech) - In collaboration with [Gabriela Mathieu](https://github.com/calcita) 
-- Toolbox for processing the Continuous Household Survey of Uruguay carried out by the National Institute of Statistics (INE). It is intended to contribute to the community of R users in Uruguay, facilitating the use of one of the most important socioeconomic surveys in the country. In this sense, the package implements a series of functions that allow the calculation of the main socioeconomic indicators allowed by the survey.
-
-[*geouy (2020)*](https://github.com/RichDeto/geouy)
+[*geouy*](https://github.com/RichDeto/geouy)  (Since 2020)
 
 - geouy is an R package that allows users to easily access official spatial data sets of Uruguay. The package includes a wide range of geospatial datasets as simple features (sf), available at various geographic scales and for various years with harmonized attributes and projection.
 
-[*EPP: Evaluation of Proximity Programs (2017)*](https://github.com/RichDeto/EPP/) - In collaboration with [Germán Botto](https://www.researchgate.net/profile/German_Botto)
+[*EPP: Evaluation of Proximity Programs*](https://github.com/RichDeto/EPP/) - In collaboration with [Germán Botto](https://www.researchgate.net/profile/German_Botto)  (Since 2017)
 
 - Package oriented to the evaluation of population coverage of diverse programs. It was originally developed to assess the coverage of an initial education program in Uruguay (expansion of the CAIF program and evaluation of the projected expansion of ANEP), which gave us interesting results, and we wanted to share the methodology used.
+
+[*ech*](https://github.com/calcita/ech) - In collaboration with [Gabriela Mathieu](https://github.com/calcita)  (Since 2020)
+- Toolbox for processing the Continuous Household Survey of Uruguay carried out by the National Institute of Statistics (INE). It is intended to contribute to the community of R users in Uruguay, facilitating the use of one of the most important socioeconomic surveys in the country. In this sense, the package implements a series of functions that allow the calculation of the main socioeconomic indicators allowed by the survey.
 
 ### 🛠 In process
 
