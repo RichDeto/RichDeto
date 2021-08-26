@@ -8,50 +8,50 @@ Here are my repo´s with the principals projects where I´m working on
 
 [*geouy*](https://github.com/RichDeto/geouy)  (Since 2020) 
 
-<img align="right" src="https://github.com/RichDeto/geouy/blob/ec319cf6e9a2972e4215ad415b28aeb763b21c70/man/figures/geouy_logo_b.png" alt="logo" width="60">
+<img align="left" src="https://github.com/RichDeto/geouy/blob/ec319cf6e9a2972e4215ad415b28aeb763b21c70/man/figures/geouy_logo_b.png" alt="logo" width="60">
 
 [![CRAN/METACRAN Version](https://www.r-pkg.org/badges/version/geouy)](https://CRAN.R-project.org/package=geouy)
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 [![R build status](https://github.com/RichDeto/geouy/workflows/R-CMD-check/badge.svg)](https://github.com/RichDeto/geouy/actions)
 [![AppVeyor build status](https://ci.appveyor.com/api/projects/status/github/RichDeto/geouy?branch=master&svg=true)](https://ci.appveyor.com/project/RichDeto/geouy)
-[![Codecov test coverage](https://codecov.io/gh/RichDeto/geouy/branch/master/graph/badge.svg)](https://codecov.io/gh/RichDeto/geouy?branch=master)
+[![Codecov test coverage](https://codecov.io/gh/RichDeto/geouy/branch/master/graph/badge.svg)](https://codecov.io/gh/RichDeto/geouy?branch=master) <br>
 [![CRAN/METACRAN Total downloads](https://cranlogs.r-pkg.org/badges/grand-total/geouy?color=blue)](https://CRAN.R-project.org/package=geouy) 
 [![CRAN/METACRAN downloads per month](https://cranlogs.r-pkg.org/badges/geouy?color=blue)](https://CRAN.R-project.org/package=geouy)
 [![DOI](https://zenodo.org/badge/229800365.svg)](https://zenodo.org/badge/latestdoi/229800365)
 
-- geouy is an R package that allows users to easily access official spatial data sets of Uruguay. The package includes a wide range of geospatial datasets as simple features (sf), available at various geographic scales and for various years with harmonized attributes and projection.
+- An R package that allows users to easily access official spatial data sets of Uruguay. The package includes a wide range of geospatial datasets as simple features (sf), available at various geographic scales and for various years with harmonized attributes and projection.
 
 [*EPP: Evaluation of Proximity Programs*](https://github.com/RichDeto/EPP/) - In collaboration with [Germán Botto](https://www.researchgate.net/profile/German_Botto)  (Since 2017)
 
-<img align="right" src="https://github.com/RichDeto/EPP/blob/a2edb809dcb506532d45ae05fe1f3c1249d312fd/man/figures/epp_logo.png" alt="logo" width="60"> 
+<img align="left" src="https://github.com/RichDeto/EPP/blob/a2edb809dcb506532d45ae05fe1f3c1249d312fd/man/figures/epp_logo.png" alt="logo" width="60"> 
 
 <!-- badges: start -->
   [![CRAN status](https://www.r-pkg.org/badges/version/EPP)](https://CRAN.R-project.org/package=EPP)
   [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
   [![R build status](https://github.com/RichDeto/EPP/workflows/R-CMD-check/badge.svg)](https://github.com/RichDeto/EPP/actions)
-  [![codecov](https://codecov.io/gh/RichDeto/EPP/branch/master/graph/badge.svg)](https://codecov.io/gh/RichDeto/EPP)
+  [![codecov](https://codecov.io/gh/RichDeto/EPP/branch/master/graph/badge.svg)](https://codecov.io/gh/RichDeto/EPP) <br>
   [![CRAN/METACRAN Total downloads](http://cranlogs.r-pkg.org/badges/grand-total/EPP?color=blue)](https://CRAN.R-project.org/package=EPP) 
   [![CRAN/METACRAN downloads per month](http://cranlogs.r-pkg.org/badges/EPP?color=blue)](https://CRAN.R-project.org/package=EPP)
   [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5138170.svg)](https://doi.org/10.5281/zenodo.5138170)
 
-- EPP is a package oriented to the evaluation of population coverage of diverse programs. It was originally developed to assess the coverage of an initial education program in Uruguay (expansion of the CAIF program and evaluation of the projected expansion of ANEP), which gave us interesting results, and we wanted to share the methodology used.
+- An R package oriented to the evaluation of population coverage of diverse programs. It was originally developed to assess the coverage of an initial education program in Uruguay (expansion of the CAIF program and evaluation of the projected expansion of ANEP), which gave us interesting results, and we wanted to share the methodology used.
 
 [*ech*](https://github.com/calcita/ech) - In collaboration with [Gabriela Mathieu](https://github.com/calcita)  (Since 2020)
 
-<img align="right" src="https://github.com/calcita/ech/blob/c9c52c222edb424d9c958cef3875d5836009bfd7/man/figures/ech_logo.png" alt="logo" width="60">
+<img align="left" src="https://github.com/calcita/ech/blob/c9c52c222edb424d9c958cef3875d5836009bfd7/man/figures/ech_logo.png" alt="logo" width="60">
 
 <!-- badges: start -->
 [![CRAN/METACRAN Version](https://www.r-pkg.org/badges/version/ech)](https://CRAN.R-project.org/package=ech)
 [![R build status](https://github.com/calcita/ech//workflows/R-CMD-check/badge.svg)](https://github.com/calcita/ech//actions)
 [![AppVeyor build status](https://ci.appveyor.com/api/projects/status/github/calcita/ech?branch=master&svg=true)](https://ci.appveyor.com/project/calcita/ech)
-[![Codecov test coverage](https://codecov.io/gh/calcita/ech/branch/master/graph/badge.svg)](https://codecov.io/gh/calcita/ech?branch=master)
+[![Codecov test coverage](https://codecov.io/gh/calcita/ech/branch/master/graph/badge.svg)](https://codecov.io/gh/calcita/ech?branch=master) <br>
 [![CRAN/METACRAN Total downloads](http://cranlogs.r-pkg.org/badges/grand-total/ech?color=blue)](https://CRAN.R-project.org/package=ech)
 [![CRAN/METACRAN downloads per month](http://cranlogs.r-pkg.org/badges/ech?color=blue)](https://CRAN.R-project.org/package=ech)
 [![DOI](https://zenodo.org/badge/224897952.svg)](https://zenodo.org/badge/latestdoi/224897952)
 <!-- badges: end -->
 
 
-- ech is a toolbox for processing the Continuous Household Survey of Uruguay carried out by the National Institute of Statistics (INE). It is intended to contribute to the community of R users in Uruguay, facilitating the use of one of the most important socioeconomic surveys in the country. In this sense, the package implements a series of functions that allow the calculation of the main socioeconomic indicators allowed by the survey.
+- A toolbox for processing in R the Continuous Household Survey of Uruguay carried out by the National Institute of Statistics (INE). It is intended to contribute to the community of R users in Uruguay, facilitating the use of one of the most important socioeconomic surveys in the country. In this sense, the package implements a series of functions that allow the calculation of the main socioeconomic indicators allowed by the survey.
 
 ### 🛠 In process
 
@@ -63,7 +63,7 @@ Here are my repo´s with the principals projects where I´m working on
 
 - R package for Urban Agents-Based Models
 
-*...*
+
 
 ## 📚 Principals publications 🧮
 
