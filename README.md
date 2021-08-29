@@ -1,8 +1,21 @@
-# 👋 I’m Richard Detomasi
+# 👋 I’m Richard Detomasi 
 
-Here are my repo´s with the principals projects where I´m working on
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) 
+[![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)](http://git-scm.com/) 
+![followers](https://img.shields.io/github/followers/RichDeto.svg?style=social&label=Followers&maxAge=2592000) <br>
+![md](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+[![r](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.rstudio.com/)
+![py](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![sql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+[![RichDeto's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RichDeto&theme=blue-orange)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RichDeto&theme=blue-orange)](https://github.com/anuraghazra/github-readme-stats) 
 
 ## 📦 R packages
+
+Here are my repo´s with the principals projects where I´m working on
 
 ### ⚙ Actives
 
@@ -14,9 +27,11 @@ Here are my repo´s with the principals projects where I´m working on
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 [![R build status](https://github.com/RichDeto/geouy/workflows/R-CMD-check/badge.svg)](https://github.com/RichDeto/geouy/actions)
 [![AppVeyor build status](https://ci.appveyor.com/api/projects/status/github/RichDeto/geouy?branch=master&svg=true)](https://ci.appveyor.com/project/RichDeto/geouy)
-[![Codecov test coverage](https://codecov.io/gh/RichDeto/geouy/branch/master/graph/badge.svg)](https://codecov.io/gh/RichDeto/geouy?branch=master) <br>
+[![Codecov test coverage](https://codecov.io/gh/RichDeto/geouy/branch/master/graph/badge.svg)](https://codecov.io/gh/RichDeto/geouy?branch=master) 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) <br>
 [![CRAN/METACRAN Total downloads](https://cranlogs.r-pkg.org/badges/grand-total/geouy?color=blue)](https://CRAN.R-project.org/package=geouy) 
 [![CRAN/METACRAN downloads per month](https://cranlogs.r-pkg.org/badges/geouy?color=blue)](https://CRAN.R-project.org/package=geouy)
+![stars](https://img.shields.io/github/stars/RichDeto/geouy.svg)
 [![DOI](https://zenodo.org/badge/229800365.svg)](https://zenodo.org/badge/latestdoi/229800365)
 
 - An R package that allows users to easily access official spatial data sets of Uruguay. The package includes a wide range of geospatial datasets as simple features (sf), available at various geographic scales and for various years with harmonized attributes and projection.
@@ -29,9 +44,12 @@ Here are my repo´s with the principals projects where I´m working on
   [![CRAN status](https://www.r-pkg.org/badges/version/EPP)](https://CRAN.R-project.org/package=EPP)
   [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
   [![R build status](https://github.com/RichDeto/EPP/workflows/R-CMD-check/badge.svg)](https://github.com/RichDeto/EPP/actions)
-  [![codecov](https://codecov.io/gh/RichDeto/EPP/branch/master/graph/badge.svg)](https://codecov.io/gh/RichDeto/EPP) <br>
+  [![AppVeyor build status](https://ci.appveyor.com/api/projects/status/github/RichDeto/EPP?branch=master&svg=true)](https://ci.appveyor.com/project/RichDeto/EPP)
+  [![codecov](https://codecov.io/gh/RichDeto/EPP/branch/master/graph/badge.svg)](https://codecov.io/gh/RichDeto/EPP) 
+  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) <br>
   [![CRAN/METACRAN Total downloads](http://cranlogs.r-pkg.org/badges/grand-total/EPP?color=blue)](https://CRAN.R-project.org/package=EPP) 
   [![CRAN/METACRAN downloads per month](http://cranlogs.r-pkg.org/badges/EPP?color=blue)](https://CRAN.R-project.org/package=EPP)
+  ![stars](https://img.shields.io/github/stars/RichDeto/EPP.svg)
   [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5138170.svg)](https://doi.org/10.5281/zenodo.5138170)
 
 - An R package oriented to the evaluation of population coverage of diverse programs. It was originally developed to assess the coverage of an initial education program in Uruguay (expansion of the CAIF program and evaluation of the projected expansion of ANEP), which gave us interesting results, and we wanted to share the methodology used.
@@ -42,11 +60,14 @@ Here are my repo´s with the principals projects where I´m working on
 
 <!-- badges: start -->
 [![CRAN/METACRAN Version](https://www.r-pkg.org/badges/version/ech)](https://CRAN.R-project.org/package=ech)
+[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 [![R build status](https://github.com/calcita/ech//workflows/R-CMD-check/badge.svg)](https://github.com/calcita/ech//actions)
 [![AppVeyor build status](https://ci.appveyor.com/api/projects/status/github/calcita/ech?branch=master&svg=true)](https://ci.appveyor.com/project/calcita/ech)
-[![Codecov test coverage](https://codecov.io/gh/calcita/ech/branch/master/graph/badge.svg)](https://codecov.io/gh/calcita/ech?branch=master) <br>
+[![Codecov test coverage](https://codecov.io/gh/calcita/ech/branch/master/graph/badge.svg)](https://codecov.io/gh/calcita/ech?branch=master) 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) <br>
 [![CRAN/METACRAN Total downloads](http://cranlogs.r-pkg.org/badges/grand-total/ech?color=blue)](https://CRAN.R-project.org/package=ech)
 [![CRAN/METACRAN downloads per month](http://cranlogs.r-pkg.org/badges/ech?color=blue)](https://CRAN.R-project.org/package=ech)
+![stars](https://img.shields.io/github/stars/calcita/ech.svg)
 [![DOI](https://zenodo.org/badge/224897952.svg)](https://zenodo.org/badge/latestdoi/224897952)
 <!-- badges: end -->
 
@@ -63,9 +84,45 @@ Here are my repo´s with the principals projects where I´m working on
 
 - R package for Urban Agents-Based Models
 
+## 🎥 YouTube 🎞️
+
+[![geouy at LatinR 2020](http://img.youtube.com/vi/VegUiSLcWBU/0.jpg)](http://www.youtube.com/watch?v=VegUiSLcWBU) 
+![views](https://img.shields.io/youtube/views/VegUiSLcWBU)
+![likes](https://img.shields.io/youtube/likes/VegUiSLcWBU?withDislikes)
+
+[![ANEP at Jornadas de Geografía 2015](http://img.youtube.com/vi/bP4P2a7kL10/0.jpg)](http://www.youtube.com/watch?v=bP4P2a7kL10)
+![views](https://img.shields.io/youtube/views/bP4P2a7kL10)
+![likes](https://img.shields.io/youtube/likes/bP4P2a7kL10?withDislikes)
+
+[![Empleo juvenil at Jornadas de Geografía 2017](http://img.youtube.com/vi/dnF3crsV-XQ/0.jpg)](http://www.youtube.com/watch?v=dnF3crsV-XQ)
+![views](https://img.shields.io/youtube/views/dnF3crsV-XQ)
+![likes](https://img.shields.io/youtube/likes/dnF3crsV-XQ?withDislikes)
+
+## 🔭 Experience
+
+- Anthropologist in Spatial Analysis since 2012 Geography Dpt. at the Division of Social Studies and Fieldwork - Ministry of Social Development (DINEM-MIDES, Uruguay)
+
+- Member of the fieldwork management team Nov 2019 – Dic 2019 Departamento de Sociología (FCS) - Intendencia de Montevideo, Uruguay.
+
+- Member of the coordinating team Jul 2018 – May 2019 Departamento de Sociología (FCS) - Intendencia de Montevideo.
+
+- Geomatics Technician Jun 2009 – Feb 2012 PNUD/UNFPA - Insituto Nacional de Estadística, Uruguay
+
+## 🧮 Education
+
+- Doctorate in Social Sciences (Population Studies Mention) 2017 - expected defense by dec. 2021 Facultad de Ciencias Sociales Universidad de la República (UdelaR), Uruguay Project: “Simulation by Agent Based Models, of population estimation distribution, at small areas. Montevideo and its Metropolitan Area (1996-2050)”. Thesis advisors: Leandro González, Ph.D. (Universidad de Córdoba) & Mathias Bourel, Ph.D. (FIng-UdelaR)
+
+- Master in Demography and Population Studies 2015 - 2018
+Facultad de Ciencias Sociales Universidad de la República (UdelaR), Uruguay Thesis: “Night luminosity as a symptomatic or dasimetric variable for population estimates in small areas. Uruguay between 1996 and 2011.” Thesis advisors: Leandro González, Ph.D. (Universidad de Córdoba) & Virginia Fernández, Ph.D. (Fac. Ciencias)
+
+- Diploma in Sociodemographic Analysis Applied to Management 2015 - 2017 Facultad de Ciencias Sociales Universidad de la República (UdelaR), Uruguay Project: “Night luminosity as a symptomatic or dasimetric variable for population estimates in small areas. Uruguay between 1996 and 2011.” Advisor: Virginia Fernández, M.S. (Fac. Ciencias)
+
+- Bimodal Master in Contemporary Studies in Latin America 2011 - 2014 Facultad de Ciencias Sociales Universidad de la República (UdelaR), Uruguay - Facultad de Ciencia Política y Sociología - Universidad Complutense de Madrid, España. Thesis: “Geopolítica de lo étnico/racial en la región de las Misiones Jesuíticas Guaraníes (MJG)” Thesis advisors: Danilo Veiga, Ph.D. (FCS) & Isabel Barreto, Ph.D. (CUT-FHUCE)
+
+- Bachelor of Science in Anthropology (Research Option) 2004 - 2011 Facultad de Humanidades y Ciencias de la Educación–Universidad de la República (UdelaR), Uruguay Thesis: “Comvivium Canario: trascendiendo desde la alimentación.” Thesis advisor: Lelio Nicolás Guigou Mardero, Ph.D.
 
 
-## 📚 Principals publications 🧮
+## 📚 Principals publications 
 
 **Detomasi, R.** y G. Mathieu 2019. ["Sistema para gestión de zonas a relevar en campo usando R"](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/presentaciones/LatinR2019_paper_70.pdf). LatinR - Conferencia Latinoamericana sobre Uso de R en Investigación + Desarrollo. 25 al 27 de Setiembre. 
 
@@ -89,13 +146,7 @@ Botto, G. y **R. Detomasi** 2015. ["Bases metodológicas para la planificación 
 
 **Detomasi, R.** & G. Botto. 2015. ["ANEP-CAIF/CAIF-ANEP ¿Los niños de 3 años?"](http://dinem.mides.gub.uy/innovaportal/file/61793/1/anep-caifcaif-anep-los-ninos-de-3-anos.-2015.pdf). División Estudios Sociales y Trabajo de Campo - Dirección Nacional de Evaluación y Monitoreo | Ministerio de Desarrollo Social. DOI: 10.13140/RG.2.1.2543.4487 
 
-## 🎥 YouTube 🎞️
 
-[![geouy at LatinR 2020](http://img.youtube.com/vi/VegUiSLcWBU/0.jpg)](http://www.youtube.com/watch?v=VegUiSLcWBU)
-
-[![ANEP at Jornadas de Geografía 2015](http://img.youtube.com/vi/bP4P2a7kL10/0.jpg)](http://www.youtube.com/watch?v=bP4P2a7kL10)
-
-[![Empleo juvenil at Jornadas de Geografía 2017](http://img.youtube.com/vi/dnF3crsV-XQ/0.jpg)](http://www.youtube.com/watch?v=dnF3crsV-XQ)
 
 
 
