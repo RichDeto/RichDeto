@@ -10,8 +10,8 @@
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-[![RichDeto's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RichDeto&theme=blue-orange)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RichDeto&theme=blue-orange)](https://github.com/anuraghazra/github-readme-stats) 
+[![RichDeto's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RichDeto&theme=blue-orange&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📦 R packages
 
