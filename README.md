@@ -23,6 +23,7 @@ Here are my repo´s with the principals projects where I´m working on
 
 <img align="left" src="https://github.com/RichDeto/geouy/blob/ec319cf6e9a2972e4215ad415b28aeb763b21c70/man/figures/geouy_logo_b.png" alt="logo" width="60">
 
+![/github/last-commit](https://img.shields.io/github/last-commit/RichDeto/geouy)
 [![CRAN/METACRAN Version](https://www.r-pkg.org/badges/version/geouy)](https://CRAN.R-project.org/package=geouy)
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 [![R build status](https://github.com/RichDeto/geouy/workflows/R-CMD-check/badge.svg)](https://github.com/RichDeto/geouy/actions)
@@ -41,6 +42,7 @@ Here are my repo´s with the principals projects where I´m working on
 <img align="left" src="https://github.com/RichDeto/EPP/blob/a2edb809dcb506532d45ae05fe1f3c1249d312fd/man/figures/epp_logo.png" alt="logo" width="60"> 
 
 <!-- badges: start -->
+  ![/github/last-commit](https://img.shields.io/github/last-commit/RichDeto/EPP)
   [![CRAN status](https://www.r-pkg.org/badges/version/EPP)](https://CRAN.R-project.org/package=EPP)
   [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
   [![R build status](https://github.com/RichDeto/EPP/workflows/R-CMD-check/badge.svg)](https://github.com/RichDeto/EPP/actions)
@@ -59,6 +61,7 @@ Here are my repo´s with the principals projects where I´m working on
 <img align="left" src="https://github.com/calcita/ech/blob/c9c52c222edb424d9c958cef3875d5836009bfd7/man/figures/ech_logo.png" alt="logo" width="60">
 
 <!-- badges: start -->
+![/github/last-commit](https://img.shields.io/github/last-commit/calcita/ech)
 [![CRAN/METACRAN Version](https://www.r-pkg.org/badges/version/ech)](https://CRAN.R-project.org/package=ech)
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 [![R build status](https://github.com/calcita/ech//workflows/R-CMD-check/badge.svg)](https://github.com/calcita/ech//actions)
