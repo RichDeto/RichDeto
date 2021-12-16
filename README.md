@@ -89,17 +89,19 @@ Here are my repo´s with the principals projects where I´m working on
 
 ## 🎥 YouTube 🎞️
 
+#### geouy at LatinR 2020
+
 [![geouy at LatinR 2020](http://img.youtube.com/vi/VegUiSLcWBU/0.jpg)](http://www.youtube.com/watch?v=VegUiSLcWBU) 
-![views](https://img.shields.io/youtube/views/VegUiSLcWBU)
-![likes](https://img.shields.io/youtube/likes/VegUiSLcWBU?withDislikes)
+<!-- ![views](https://img.shields.io/youtube/views/VegUiSLcWBU) -->
+<!-- ![likes](https://img.shields.io/youtube/likes/VegUiSLcWBU?withDislikes) -->
 
 [![ANEP at Jornadas de Geografía 2015](http://img.youtube.com/vi/bP4P2a7kL10/0.jpg)](http://www.youtube.com/watch?v=bP4P2a7kL10)
-![views](https://img.shields.io/youtube/views/bP4P2a7kL10)
-![likes](https://img.shields.io/youtube/likes/bP4P2a7kL10?withDislikes)
+<!-- ![views](https://img.shields.io/youtube/views/bP4P2a7kL10) -->
+<!-- ![likes](https://img.shields.io/youtube/likes/bP4P2a7kL10?withDislikes) -->
 
 [![Empleo juvenil at Jornadas de Geografía 2017](http://img.youtube.com/vi/dnF3crsV-XQ/0.jpg)](http://www.youtube.com/watch?v=dnF3crsV-XQ)
-![views](https://img.shields.io/youtube/views/dnF3crsV-XQ)
-![likes](https://img.shields.io/youtube/likes/dnF3crsV-XQ?withDislikes)
+<!-- ![views](https://img.shields.io/youtube/views/dnF3crsV-XQ) -->
+<!-- ![likes](https://img.shields.io/youtube/likes/dnF3crsV-XQ?withDislikes) -->
 
 ## 🔭 Experience
 
