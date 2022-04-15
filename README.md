@@ -105,7 +105,9 @@ Here are my repo´s with the principals projects where I´m working on
 
 ## 🔭 Experience
 
-- Anthropologist in Spatial Analysis since 2012 Geography Dpt. at the Division of Social Studies and Fieldwork - Ministry of Social Development (DINEM-MIDES, Uruguay)
+- Director since 2022 of the Data Analysis Division at National Directorate of Transfers and Data Analysis - Ministry of Social Development
+
+- Anthropologist in Spatial Analysis Ago 2012 - Apr 2022 Geography Dpt. at the Division of Social Studies and Fieldwork - Ministry of Social Development (DINEM-MIDES, Uruguay)
 
 - Member of the fieldwork management team Nov 2019 – Dic 2019 Departamento de Sociología (FCS) - Intendencia de Montevideo, Uruguay.
 
@@ -128,6 +130,10 @@ Facultad de Ciencias Sociales Universidad de la República (UdelaR), Uruguay The
 
 
 ## 📚 Principals publications 
+
+**Detomasi, R.** 2020. ["Modelos Basados en Agentes (MBA) para la estimación y proyección de población en pequeñas áreas.(Montevideo metropolitano, Uruguay: 1996-2050)"](https://congresosalap.com/alap2020/resumos/0001/PPT-eposter-trab-aceito-0294-1.PDF). ALAP 2020, IX Congreso de la Asociación Latinoamericana de Población. 9 a 11 diciembre. ISSN/ISBN: 1688-9991
+
+**Detomasi, R.** 2020. ["geouy: Acceso a las geometrías de Uruguay"](https://github.com/LatinR/presentaciones-LatinR2020/blob/main/trabajos/LatinR2020_envio_7.pdf) LatinR - Conferencia Latinoamericana sobre Uso de R en Investigación + Desarrollo. Octubre
 
 **Detomasi, R.** y G. Mathieu 2019. ["Sistema para gestión de zonas a relevar en campo usando R"](https://github.com/LatinR/presentaciones-LatinR2019/blob/master/presentaciones/LatinR2019_paper_70.pdf). LatinR - Conferencia Latinoamericana sobre Uso de R en Investigación + Desarrollo. 25 al 27 de Setiembre. 
 
