@@ -1,23 +1,23 @@
 # 👋 I’m Richard Detomasi 
 
+![GitHub User's stars](https://img.shields.io/github/stars/RichDeto?style=social)
+![followers](https://img.shields.io/github/followers/RichDeto?style=social) 
+
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) 
 [![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)](http://git-scm.com/) 
-![followers](https://img.shields.io/github/followers/RichDeto?style=social) <br>
-
+<img src="https://github.com/carpentries/logo/blob/main/TheCarpentries.svg" height="20" />
   <!--<a href="https://github.com/sponsors/nowosad"><img src="https://img.shields.io/badge/-GitHub_Sponsors-555555?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Sponsors"></a>-->
   <!--<a href="https://www.buymeacoffee.com/nowosad"><img src="https://img.shields.io/badge/-Buy Me A Coffee-555555?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="buymeacoffee"></a>-->	
   <!--<a href="https://ko-fi.com/nowosad"><img src="https://img.shields.io/badge/-Buy Me A Coffee-555555?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="ko-fi"></a>-->	
-<a href="https://twitter.com/RichardDetomasi"><img src="https://img.shields.io/badge/-Twitter-555555?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
   <!--<a href="https://twitter.com/RLabUy"><img src="https://img.shields.io/badge/-Twitter-555555?style=for-the-badge&logo=twitter&logoColor=blue" alt="Twitter"></a>-->
+<a href="https://twitter.com/RichardDetomasi"><img src="https://img.shields.io/badge/-Twitter-555555?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://www.researchgate.net/profile/Richard-Detomasi"><img src="https://img.shields.io/badge/-ResearchGate-555555?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"></a>
 <a href="https://scholar.google.pl/citations?authuser=1&user=5230mpsAAAAJ"><img src="https://img.shields.io/badge/-Google Scholar-555555?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>
   <!--<a href="https://www.youtube.com/channel/UC6SHy3Bm72aMQmUqeS7lEZA/playlists"><img src="https://img.shields.io/badge/-YouTube-555555?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>-->
 
-
 [![r](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.rstudio.com/)
 ![py](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![sql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-<br>
 ![md](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
