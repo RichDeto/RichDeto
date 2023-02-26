@@ -6,14 +6,16 @@
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) 
 [![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)](http://git-scm.com/) 
 <img src="https://github.com/carpentries/logo/blob/main/TheCarpentries.svg" height="20" />
-  <!--<a href="https://github.com/sponsors/nowosad"><img src="https://img.shields.io/badge/-GitHub_Sponsors-555555?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Sponsors"></a>-->
-  <!--<a href="https://www.buymeacoffee.com/nowosad"><img src="https://img.shields.io/badge/-Buy Me A Coffee-555555?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="buymeacoffee"></a>-->	
-  <!--<a href="https://ko-fi.com/nowosad"><img src="https://img.shields.io/badge/-Buy Me A Coffee-555555?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="ko-fi"></a>-->	
+ 
+<a href="https://github.com/sponsors/RichDeto"><img src="https://img.shields.io/badge/-GitHub_Sponsors-555555?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Sponsors"></a>
+  <!--<a href="https://www.buymeacoffee.com/richdeto"><img src="https://img.shields.io/badge/-Buy Me A Coffee-555555?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="buymeacoffee"></a>-->	
+  <!--<a href="https://ko-fi.com/richdeto"><img src="https://img.shields.io/badge/-Buy Me A Coffee-555555?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="ko-fi"></a>-->	
   <!--<a href="https://twitter.com/RLabUy"><img src="https://img.shields.io/badge/-Twitter-555555?style=for-the-badge&logo=twitter&logoColor=blue" alt="Twitter"></a>-->
 <a href="https://twitter.com/RichardDetomasi"><img src="https://img.shields.io/badge/-Twitter-555555?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://www.researchgate.net/profile/Richard-Detomasi"><img src="https://img.shields.io/badge/-ResearchGate-555555?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"></a>
 <a href="https://scholar.google.pl/citations?authuser=1&user=5230mpsAAAAJ"><img src="https://img.shields.io/badge/-Google Scholar-555555?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>
-  <!--<a href="https://www.youtube.com/channel/UC6SHy3Bm72aMQmUqeS7lEZA/playlists"><img src="https://img.shields.io/badge/-YouTube-555555?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>-->
+<img src="https://raster.shields.io/badge/dynamic/json?style=for-the-badge&logo=r&&label=Translations&query=translated&url=https%3A%2F%2Ftranslate.rx.studio%2Fapi%2Fusers%2FRichDeto%2Fstatistics%2F%3Fformat%3Djson" />
+<a href="https://www.youtube.com/channel/UCTydVMWpEIywfNWkDhBgiWw/playlists"><img src="https://img.shields.io/badge/-YouTube-555555?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 
 [![r](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.rstudio.com/)
 ![py](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -108,14 +110,14 @@ Here are my repo´s with the principals projects where I´m working on
 #### geouy at LatinR 2020
 
 [![geouy at LatinR 2020](http://img.youtube.com/vi/VegUiSLcWBU/0.jpg)](http://www.youtube.com/watch?v=VegUiSLcWBU) 
-<!-- ![views](https://img.shields.io/youtube/views/VegUiSLcWBU) -->
-<!-- ![likes](https://img.shields.io/youtube/likes/VegUiSLcWBU?withDislikes) -->
+![views](https://img.shields.io/youtube/views/VegUiSLcWBU)
+![likes](https://img.shields.io/youtube/likes/VegUiSLcWBU?withDislikes)
 
-[![ANEP at Jornadas de Geografía 2015](http://img.youtube.com/vi/bP4P2a7kL10/0.jpg)](http://www.youtube.com/watch?v=bP4P2a7kL10)
+<!-- [![ANEP at Jornadas de Geografía 2015](http://img.youtube.com/vi/bP4P2a7kL10/0.jpg)](http://www.youtube.com/watch?v=bP4P2a7kL10) -->
 <!-- ![views](https://img.shields.io/youtube/views/bP4P2a7kL10) -->
 <!-- ![likes](https://img.shields.io/youtube/likes/bP4P2a7kL10?withDislikes) -->
 
-[![Empleo juvenil at Jornadas de Geografía 2017](http://img.youtube.com/vi/dnF3crsV-XQ/0.jpg)](http://www.youtube.com/watch?v=dnF3crsV-XQ)
+<!-- [![Empleo juvenil at Jornadas de Geografía 2017](http://img.youtube.com/vi/dnF3crsV-XQ/0.jpg)](http://www.youtube.com/watch?v=dnF3crsV-XQ) -->
 <!-- ![views](https://img.shields.io/youtube/views/dnF3crsV-XQ) -->
 <!-- ![likes](https://img.shields.io/youtube/likes/dnF3crsV-XQ?withDislikes) -->
 
