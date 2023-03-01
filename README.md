@@ -42,8 +42,8 @@ Here are my repo´s with the principals projects where I´m working on
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 [![R build status](https://github.com/RichDeto/geouy/workflows/R-CMD-check/badge.svg)](https://github.com/RichDeto/geouy/actions)
 [![AppVeyor build status](https://ci.appveyor.com/api/projects/status/github/RichDeto/geouy?branch=master&svg=true)](https://ci.appveyor.com/project/RichDeto/geouy)
-[![Codecov test coverage](https://codecov.io/gh/RichDeto/geouy/branch/master/graph/badge.svg)](https://codecov.io/gh/RichDeto/geouy?branch=master) 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) <br>
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+<!--[![Codecov test coverage](https://codecov.io/gh/RichDeto/geouy/branch/master/graph/badge.svg)](https://codecov.io/gh/RichDeto/geouy?branch=master)-->
 [![CRAN/METACRAN Total downloads](https://cranlogs.r-pkg.org/badges/grand-total/geouy?color=blue)](https://CRAN.R-project.org/package=geouy) 
 [![CRAN/METACRAN downloads per month](https://cranlogs.r-pkg.org/badges/geouy?color=blue)](https://CRAN.R-project.org/package=geouy)
 ![stars](https://img.shields.io/github/stars/RichDeto/geouy.svg)
@@ -61,8 +61,8 @@ Here are my repo´s with the principals projects where I´m working on
   [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
   [![R build status](https://github.com/RichDeto/EPP/workflows/R-CMD-check/badge.svg)](https://github.com/RichDeto/EPP/actions)
   [![AppVeyor build status](https://ci.appveyor.com/api/projects/status/github/RichDeto/EPP?branch=master&svg=true)](https://ci.appveyor.com/project/RichDeto/EPP)
-  [![codecov](https://codecov.io/gh/RichDeto/EPP/branch/master/graph/badge.svg)](https://codecov.io/gh/RichDeto/EPP) 
-  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) <br>
+  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+  <!--[![codecov](https://codecov.io/gh/RichDeto/EPP/branch/master/graph/badge.svg)](https://codecov.io/gh/RichDeto/EPP)-->
   [![CRAN/METACRAN Total downloads](http://cranlogs.r-pkg.org/badges/grand-total/EPP?color=blue)](https://CRAN.R-project.org/package=EPP) 
   [![CRAN/METACRAN downloads per month](http://cranlogs.r-pkg.org/badges/EPP?color=blue)](https://CRAN.R-project.org/package=EPP)
   ![stars](https://img.shields.io/github/stars/RichDeto/EPP.svg)
@@ -80,8 +80,8 @@ Here are my repo´s with the principals projects where I´m working on
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 [![R build status](https://github.com/calcita/ech//workflows/R-CMD-check/badge.svg)](https://github.com/calcita/ech//actions)
 [![AppVeyor build status](https://ci.appveyor.com/api/projects/status/github/calcita/ech?branch=master&svg=true)](https://ci.appveyor.com/project/calcita/ech)
-[![Codecov test coverage](https://codecov.io/gh/calcita/ech/branch/master/graph/badge.svg)](https://codecov.io/gh/calcita/ech?branch=master) 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) <br>
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+<!--[![Codecov test coverage](https://codecov.io/gh/calcita/ech/branch/master/graph/badge.svg)](https://codecov.io/gh/calcita/ech?branch=master)  -->
 [![CRAN/METACRAN Total downloads](http://cranlogs.r-pkg.org/badges/grand-total/ech?color=blue)](https://CRAN.R-project.org/package=ech)
 [![CRAN/METACRAN downloads per month](http://cranlogs.r-pkg.org/badges/ech?color=blue)](https://CRAN.R-project.org/package=ech)
 ![stars](https://img.shields.io/github/stars/calcita/ech.svg)
